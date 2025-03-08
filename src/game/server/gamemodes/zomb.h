@@ -7,8 +7,8 @@
 
 #define ZOMB_VERSION "(3.2)"
 
-#define MAX_SURVIVORS 4
-#define MAX_ZOMBS (16 - MAX_SURVIVORS)
+#define MAX_SURVIVORS 16
+#define MAX_ZOMBS 12
 #define MAX_MAP_SIZE (1024 * 1024)
 
 typedef uint8_t u8;
